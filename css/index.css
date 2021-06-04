@@ -52,8 +52,16 @@ body {
     font-size: 70%;
     text-align: center;
     cursor: pointer;
+    animation-name: clickMe;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
-
+@keyframes clickMe {
+    from {
+        transform: scale(1.12);
+    }
+}
 .card-body a:hover {
     background: #0D073B;
     color: white;
@@ -68,6 +76,9 @@ body {
 }
 .card-links>a {
     margin: 10px;
+}
+.card-links>a:hover{
+    transform: scale(1.2);
 }
 
 @media screen and (min-width:500px){
