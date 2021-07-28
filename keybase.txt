@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/williamgalas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://williamgalas.tech
+  * I am williamgalas (https://keybase.io/williamgalas) on keybase.
+  * I have a public key ASBCPltx5CYt_6PWiUQksCr0iS0UmNCzpqw_8huQfMAl8wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120423e5b71e4262dffa3d6894424b02af4892d1498d0b3a6ac3ff21b907cc025f30a",
+      "host": "keybase.io",
+      "kid": "0120423e5b71e4262dffa3d6894424b02af4892d1498d0b3a6ac3ff21b907cc025f30a",
+      "uid": "7b8c76d99373eb59acd399ea34510019",
+      "username": "williamgalas"
+    },
+    "merkle_root": {
+      "ctime": 1627482249,
+      "hash": "b5178b5dc75597f5de66094c3a0331868f7b3effef0fd19b6594c208f4e2a12ecc5b8553878acfa0cffb24e38cee520b97738c0e621ee4ac6f6e4a75bffa4c85",
+      "hash_meta": "f9d54df793e5b34587629d495f023b131067fd234d5db4e8b9de9d58bed4bcd3",
+      "seqno": 20461224
+    },
+    "service": {
+      "entropy": "pBnbsn1ewm6HfJpqwIQugtFF",
+      "hostname": "williamgalas.tech",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1627482273,
+  "expire_in": 504576000,
+  "prev": "506be364865269b14d2dff6aaf2a67cbc0d9fa4466b7a57dcd256212666b2684",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQj5bceQmLf+j1olEJLAq9IktFJjQs6asP/IbkHzAJfMKp3BheWxvYWTESpcCCMQgUGvjZIZSabFNLf9qrypny8DZ+kRmt6V9zSViEmZrJoTEINTex47eTa2BiecI+qzShob+/EZ0EKSfMcB70KVYQK5zAgHCo3NpZ8RA+mDk1k84XgeIykQ12rMPqIq8J1zq5wtZmY07HjJsv0Yd7YvcP/EMXGpFCbVfyvbUFz0nH/IizfkkkD8c+kThCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ0mtbn8voJUIZDO3cy3GbL18UHUuumPpKh346wIwbXPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/williamgalas
+
+==================================================================
